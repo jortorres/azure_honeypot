@@ -1,5 +1,5 @@
 <h2 style="font-size: 14px;">azure_honeypot</h2>
-<p> This is a honeypot setup to see how many attacks will happen on an open machine to the public internet. I setup it up in Azure, with a VM, open up the policies and disabled the firewalls. Set up the Log Analytics Workspace with and transfer to Microsoft Sentinel to map out the locations. </p>
+<p> This is a honeypot setup to see how many attacks will happen on an open machine to the public internet. The setup is in Azure, with a VM, open up the policies and disabled the firewalls. Set up the Log Analytics Workspace with and transfer to Microsoft Sentinel to map out the locations. </p>
 
 <img src="https://github.com/user-attachments/assets/4280b953-aff2-41d4-a5c7-f0746c3ac1fe" width="500" alt="Screenshot 2025-05-09 at 8 05 44 AM">
 
